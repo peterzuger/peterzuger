@@ -2,20 +2,12 @@
 <h3 align="center">An Embedded Software developer from Switzerland</h3>
 
 ---
-<div align="center">
-<a href="https://github.com/peterzuger">
-  <img height=350 align="center" src="https://github-readme-stats.vercel.app/api?username=peterzuger&count_private=true&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&include_all_commits=true&theme=transparent" />
-</a>
-<a href="https://github.com/peterzuger">
-  <img height=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterzuger&show_icons=true&theme=transparent" />
-</a>
-</div>
 
 <h5 align="center">My Systems</h5>
 <div align="center">
 
-[![](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#)
 [![](https://img.shields.io/badge/Linux-%23FCC624.svg?&logo=linux&logoColor=black)](#)
+[![](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#)
 [![](https://img.shields.io/badge/OpenWrt-%2300B5E2.svg?&logo=openwrt&logoColor=white)](#)
 [![](https://img.shields.io/badge/i3-%234C7899.svg?&logo=i3&logoColor=white)](#)
 
@@ -40,6 +32,7 @@
 [![](https://img.shields.io/badge/WireGuard-%2388171A.svg?&logo=wireguard&logoColor=white)](#)
 [![](https://img.shields.io/badge/curl-%23073551.svg?&logo=curl&logoColor=white)](#)
 [![](https://img.shields.io/badge/mpv-%236E3EB7.svg?&logo=mpv&logoColor=white)](#)
+[![](https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000)](#)
 
 </div>
 <h5 align="center">My Shell</h5>
